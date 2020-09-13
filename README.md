@@ -7,7 +7,7 @@ Note that this list is influenced by Prof. Flaherty's list and Mike Jordan's lis
 Probability and Statistics
 ----
 
-###Frequentist Statistics
+### Frequentist Statistics
 
 Casella, G. and Berger, R.L. (2001). "Statistical Inference" Duxbury Press.
 
@@ -20,7 +20,7 @@ Vaart, A.W. van der (1998). “Asymptotic Statistics” Cambridge ties together 
 B. Efron (2010) “Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction” Cambridge. 
 
 
-###Bayesian Statistics
+### Bayesian Statistics
 
 Gelman, A. et al. (2003). "Bayesian Data Analysis" Chapman & Hall/CRC. 
 
@@ -29,7 +29,7 @@ Robert, C. and Casella, G. (2005). "Monte Carlo Statistical Methods" Springer.
 Berger, J. and Wolpert, R (1988). "The likelihood principle: a review, generalizations, and statistical implications" IMS Lecture Notes Monogr. Ser. 
 
 
-###Probability
+### Probability
 
 Grimmett, G. and Stirzaker, D. (2001). "Probability and Random Processes" Oxford.
 
@@ -42,7 +42,7 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 
 Linear Algebra and Optimization
 ---
-###Convex Optimization
+### Convex Optimization
 
 D. and Tsitsiklis, J. (1997). "Introduction to Linear Optimization".
 
